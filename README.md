@@ -22,9 +22,9 @@
 ########## 
 |  LUNES | MARTES | MIERCOLES | JUEVES | VIERNES |
 | ---------- | ---------- | ---------- | ---------- | ---------- |
-| SOR    | SOR    | SOR       | SOR    | Cabecera 1 |
-| SOR    | SOR    | SOR       | SOR    | Cabecera 1 |
-|app web | ingles | Cabecera 1 | Cabecera 2 | Cabecera 1 |
-| python | sostenibilidad  | Cabecera 1 | SOR | Cabecera 1 |
-| python | Elem 2, 2  | Cabecera 1 | Cabecera 2 | Cabecera 1 |
-|seguridad| Elem 2, 2  | Cabecera 1 | Cabecera 2 | Cabecera 1 | 
+| SOR    | SOR    | SOR       | Serv red   | serv red |
+| SOR    | SOR    | SOR       | Serv red    | lti emple |
+|app web | ingles | Serv Red | python | seguridad |
+| python | sostenibilidad  | Serv Red | ap web | seguridad |
+| python | Serv Red  | Digitalizacion | SOR | ap web |
+|seguridad| Serv Red  | lti emple | ingles | ap web | 
