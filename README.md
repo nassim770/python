@@ -14,9 +14,7 @@
 
 
 
-######### https://github.com/nassim770/python/edit/main/README.md
-
-
+[aula](https://aulavirtual32.educa.madrid.org/ies.sierradeguadarrama.soto/mod/assign/view.php?id=12832)
 
 
 ########## 
